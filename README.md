@@ -33,8 +33,9 @@ After making changes, save the file and refresh the browser to see the updates.
 No additional setup or dependencies are required.
 
 Screenshots
-
-Screenshots of the resume template are available in the repository for reference and evaluation.
+https://github.com/gaurang-at-GitHub/resume_html_template/blob/main/Screenshot1.png
+https://github.com/gaurang-at-GitHub/resume_html_template/blob/main/Screenshot2.png
+https://github.com/gaurang-at-GitHub/resume_html_template/blob/main/Screenshot3.png
 
 Author
 
